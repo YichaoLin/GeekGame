@@ -1,0 +1,47 @@
+{
+    "_id": "5aff8f37d97381062fb10892",
+    "user": "5afd38eeb886f50f4320e6c1",
+    "handle": "test",
+    "company": "star1",
+    "website": "test.com",
+    "location": "waterloo",
+    "status": "Front end",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "Node.js"
+    ],
+    "bio": "Hi,it is coco",
+    "githubusername": "www.github.com/YichaoLin",
+    "experience": [
+        {
+            "current": true,
+            "_id": "5aff9079d97381062fb10894",
+            "title": "front end developer",
+            "company": "star2",
+            "location": "toronto",
+            "from": "2009-12-31T18:14:00.000Z",
+            "to": "2014-12-31T18:14:00.000Z",
+            "description": "nothing"
+        }
+    ],
+    "education": [
+        {
+            "current": false,
+            "_id": "5aff9153d97381062fb10895",
+            "school": "university of Ottawa",
+            "degree": "Master",
+            "fieldofstudy": "Computer science",
+            "from": "2007-12-31T18:14:00.000Z",
+            "to": "2010-12-31T18:14:00.000Z",
+            "description": "nothing."
+        }
+    ],
+    "social": {
+        "facebook": "https://www.facebook.com/coco.lin.967422"
+    },
+    "date": "2019-05-19T02:43:03.029Z",
+    "__v": 2
+}
